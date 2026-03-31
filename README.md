@@ -11,13 +11,6 @@
 
 ---
 
-<!-- 🔥 BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsaini-dev&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/nikhilsaini-dev?label=Followers&style=social" />
-</p>
-
----
 
 <!-- HERO GIF -->
 <p align="center">
@@ -79,13 +72,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsaini-dev&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsaini-dev&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
@@ -116,7 +102,7 @@
 ## ⚡ Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  🚀 "First, solve the problem. Then, write the code."
 </p>
 
 ---
